@@ -18,10 +18,9 @@ Our full-stack capabilities span optical design, hardware circuitry, low-level a
 
 ## Core Capabilities | 核心能力
 
-- **SPAD-ASIC Chip** — 自研 SPAD-ASIC 芯片
 - **Optical Module** — 激光雷达核心光机模组
 - **Full Sensor Systems** — 激光雷达整机
-- **Perception Algorithms** — 全套感知算法解决方案
+
 
 ## Products | 产品
 
