@@ -31,9 +31,12 @@ Our full-stack capabilities span optical design, hardware circuitry, low-level a
 
 ## Resources | 开发资源
 
-| Repository | Description |
-|------------|-------------|
-| [V192_sdk_win64](https://github.com/Yiliphoton/V192_sdk_win64) | V192 SDK for Windows x64 |
+| Repository | Platform | Description |
+|------------|----------|-------------|
+| [yiliphoton_lidar_sdk_linux](https://github.com/Yiliphoton/yiliphoton_lidar_sdk_linux) | Linux | LiDAR Driver SDK (C++, no ROS dependency) |
+| [V192_sdk_win64](https://github.com/Yiliphoton/V192_sdk_win64) | Windows x64 | V192 LiDAR SDK |
+| [yiliphoton-lidar-ros2](https://github.com/Yiliphoton/yiliphoton-lidar-ros2) | ROS2 | ROS2 Driver (Foxy / Galactic / Humble) |
+| [yiliphoton_lidar_ros1](https://github.com/Yiliphoton/yiliphoton_lidar_ros1) | ROS1 | ROS1 Driver (Melodic / Noetic) |
 
 ## Contact | 联系我们
 
